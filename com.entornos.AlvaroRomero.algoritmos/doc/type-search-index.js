@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.entornos.AlvaroRomero.algoritmos","l":"algoritmos"},{"l":"All Classes","url":"allclasses-index.html"}]

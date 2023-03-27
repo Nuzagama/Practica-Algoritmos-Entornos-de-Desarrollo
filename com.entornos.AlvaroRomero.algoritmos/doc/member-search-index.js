@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.entornos.AlvaroRomero.algoritmos","c":"algoritmos","l":"algoritmos()","url":"%3Cinit%3E()"},{"p":"com.entornos.AlvaroRomero.algoritmos","c":"algoritmos","l":"factorial(int)"},{"p":"com.entornos.AlvaroRomero.algoritmos","c":"algoritmos","l":"fibonacci(int)"},{"p":"com.entornos.AlvaroRomero.algoritmos","c":"algoritmos","l":"primo(int)"}]
