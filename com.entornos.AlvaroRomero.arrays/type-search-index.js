@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.entornos.AlvaroRomero.MisArrays.test","l":"AllTests"},{"p":"com.entornos.AlvaroRomero.MisArrays","l":"MisArrays"}]
