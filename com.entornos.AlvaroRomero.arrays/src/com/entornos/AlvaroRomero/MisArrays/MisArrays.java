@@ -47,6 +47,12 @@ public abstract class MisArrays {
 	
 	}
 	
+	/*
+	 * Maximo:Recibe un array de números enteros y devuelve el mayor de ellos
+	 * @return Devuelve el numero máximo
+	 * @param Array de números enteros
+	 */
+	
 	public static double calcularMax(int[] numeros) {
 		int max, min;
 		max = min = numeros[0];
@@ -68,6 +74,37 @@ public abstract class MisArrays {
 	}
 		
 		return max;
+	
+	
+	}
+	
+	/*
+	 * Mínimo:Recibe un array de números enteros y devuelve el menor de ellos
+	 * @return Devuelve el numero mínimo
+	 * @param Array de números enteros
+	 */
+	
+	public static double calcularMin(int[] numeros) {
+		int max, min;
+		max = min = numeros[0];
+
+		for (int i = 0; i < numeros.length; i++) {
+            
+	        if(numeros[i]>max){
+	        
+	            max=numeros[i];
+	            
+	        }
+	        
+	        if(numeros[i]<min){
+	        
+	            min=numeros[i];
+	            
+	        }
+	      
+	}
+		
+		return min;
 	
 	
 	}

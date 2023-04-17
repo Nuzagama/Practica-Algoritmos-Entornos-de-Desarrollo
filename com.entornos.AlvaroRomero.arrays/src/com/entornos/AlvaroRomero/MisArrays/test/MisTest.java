@@ -33,5 +33,14 @@ class MisTest {
 		assertEquals(resultadoEsperado3, res3);
 
 	}
+	
+	@Test
+	void testMin() {
+		double res4 = MisArrays.calcularMedia(arra);
+		double resultadoEsperado4 = 25;
+
+		assertEquals(resultadoEsperado4, res4);
+
+	}
 
 }
