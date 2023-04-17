@@ -15,5 +15,15 @@ class MisTest {
 		
 		assertEquals(resultadoEsperado1, res1);
 	}
+		
+		@Test
+		void testMediana() {
+			double res2 = MisArrays.calcularMedia(arra);
+			double resultadoEsperado2 = 25;
+			
+			assertEquals(resultadoEsperado2, res2);
+			
+			
+	}
 
 }
