@@ -46,4 +46,29 @@ public abstract class MisArrays {
 	
 	
 	}
+	
+	public static double calcularMax(int[] numeros) {
+		int max, min;
+		max = min = numeros[0];
+
+		for (int i = 0; i < numeros.length; i++) {
+            
+	        if(numeros[i]>max){
+	        
+	            max=numeros[i];
+	            
+	        }
+	        
+	        if(numeros[i]<min){
+	        
+	            min=numeros[i];
+	            
+	        }
+	      
+	}
+		
+		return max;
+	
+	
+	}
 }
